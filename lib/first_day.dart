@@ -23,6 +23,7 @@ class _FirstDayState extends State<FirstDay> {
             width: 600,
             color: Colors.grey.shade200,
             padding: EdgeInsets.all(24),
+            margin: EdgeInsets.all(16),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               // mainAxisAlignment: MainAxisAlignment.center,
